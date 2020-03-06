@@ -1,4 +1,4 @@
-# tracker-app
+# Exercise Tracking App
 An app for tracking exercises using MERN stack
 
 [_Hosted Here._](https://exercises-tracker.herokuapp.com/ "Exercise Tracker")
