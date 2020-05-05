@@ -1,8 +1,7 @@
-# tracker-app
+# Exercise Tracking App
+
 An app for tracking exercises using MERN stack
 
-Created by following a youtube tutorial by freecodecamp
-Link: https://www.youtube.com/watch?v=7CqJlxBYj-M
+[_Hosted Here._](https://exercises-tracker.herokuapp.com/ "Exercise Tracker")
 
-Site Deployed on :
-https://exercisetracker.netlify.com/
+Created from [youtube tutorial](https://www.youtube.com/watch?v=7CqJlxBYj-M "freecodecamp")
